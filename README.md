@@ -21,7 +21,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your system. This
 
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ### Usage
