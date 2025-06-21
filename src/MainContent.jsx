@@ -1,3 +1,5 @@
+//TODO: Make components for each section (Future task)
+
 function MainContent() {
     return (
         <main>
